@@ -1,0 +1,26 @@
+.Red-color{
+	color: blue
+}
+body{
+    font-family: sans-serif;
+    line-height: 35px;
+    color: #7777777;
+	
+}
+.primary-btn{
+	color:white;
+	background-color:blue;
+	padding: 13px 42px 13px 42px;
+	border-radius: 20px;
+	text-decoration: none;
+}	
+h1{
+	font-size: 2.5em;
+}
+.purple-color{
+	color:blue;
+}
+.side-image{
+    width: 100%;
+   
+}
